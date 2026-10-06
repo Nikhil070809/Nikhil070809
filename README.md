@@ -1,7 +1,7 @@
 <!-- ================= NAME LOGO ================= -->
 <!-- This is a generated text-logo banner using your name. To use your own image/logo instead, see the instructions below the Connect section. -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=NIKHIL%20KUMAR&fontSize=50&fontColor=00F7FF&fontAlignY=55&desc=CYBERSECURITY%20ANALYST&descAlignY=75&descSize=18&animation=fadeIn" width="100%" alt="Nikhil Kumar Logo Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=DASURI%20VENKATA%20NIKHIL%20KUMAR&fontSize=36&fontColor=00F7FF&fontAlignY=55&desc=CYBERSECURITY%20ANALYST&descAlignY=78&descSize=18&animation=fadeIn" width="100%" alt="Dasuri Venkata Nikhil Kumar Logo Banner" />
 </p>
 
 <h3 align="center">🛡️ Cybersecurity Analyst (SOC L1) | Threat Hunting | Detection Engineering</h3>
