@@ -1,5 +1,8 @@
-<!-- ================= HERO BANNER ================= -->
-<h1 align="center">Hi 👋, I'm Dasuri Venkata Nikhil Kumar</h1>
+<!-- ================= NAME LOGO ================= -->
+<!-- This is a generated text-logo banner using your name. To use your own image/logo instead, see the instructions below the Connect section. -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=NIKHIL%20KUMAR&fontSize=50&fontColor=00F7FF&fontAlignY=55&desc=CYBERSECURITY%20ANALYST&descAlignY=75&descSize=18&animation=fadeIn" width="100%" alt="Nikhil Kumar Logo Banner" />
+</p>
 
 <h3 align="center">🛡️ Cybersecurity Analyst (SOC L1) | Threat Hunting | Detection Engineering</h3>
 
@@ -79,6 +82,8 @@ I'm a cybersecurity enthusiast and aspiring SOC Analyst with hands-on experience
 |---------|-------------|------------|-------|
 | 🎣 **Phish Catcher** | Client-side phishing detection Chrome extension that classifies suspicious URLs in real time using a Random Forest model, with engineered features such as domain patterns, character entropy, and obfuscation cues. | Python, Flask, Scikit-learn, Chrome Extension API | [GitHub](https://github.com/Nikhil070809/PhishCatcher-) |
 | 🏠 **Home SOC Lab** | Home SOC lab with Splunk Enterprise and Sysmon, ingesting Windows Event Logs (4624, 4625, 4688). Custom SPL queries detect brute-force logins and suspicious PowerShell/process activity, mapped to MITRE ATT&CK. | Splunk, Sysmon, SPL, MITRE ATT&CK | Coming soon <!-- Replace with: [GitHub](https://github.com/Nikhil070809/your-repo) --> |
+| 📍 **Linktrack** | Geolocation OSINT research tool that demonstrates how a webpage can be used to capture a visitor's approximate GPS location, device, and network details, built to help security teams understand and train against this class of social-engineering attack. | Shell | [GitHub](https://github.com/Nikhil070809/Linktrack) |
+| 🔎 **WHOIS** | Reliable WHOIS lookup tool written in C, with automatic fallback to alternate WHOIS servers when one fails, for more consistent domain lookups. | C | [GitHub](https://github.com/Nikhil070809/WHOIS) |
 
 ---
 
